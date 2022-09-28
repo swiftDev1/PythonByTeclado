@@ -1,7 +1,9 @@
 ## String formatting
 
 # MY MAIN TAKEAWAY
-# The use of F-strings as follows f"My name is {name}. What is yours?"
+""" 
+The use of F-strings as follows f"My name is {name}. What is yours?" 
+"""
 
 
 
